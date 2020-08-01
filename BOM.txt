@@ -1,0 +1,24 @@
+extruder assy
+.peristaltic pump assy
+..tube assy
+...feed tube (6mm outer diameter 4mm inner diameter)
+...silicon tube (4mm outer diameter 2mm inner diameter)
+...bowden PTFE tube (4mm outer diameter 2mm inner diameter)
+...tube coupler (for inner diameter 2mm / 4mm tube)
+...hose clip x4 (4mm x2, 6mm x2)
+..printed parts set
+..623Z ball bearing x4
+..15mm M3 thread rod x4
+..25mm M4 screw x5
+..M4 nut x4
+.NEMA 17 geared stepper motor
+.hotend
+..E3D V6 heatsink
+..E3D V6 standard heat block
+..E3D Volcano Nozzle
+..bowden connector for outer diameter 6mm tube / taper 1/4 inch screw
+.ziplock pouch assy
+..bowden connector for outer diameter 6mm tube / M6
+..printable parts
+..ziplock bag
+.DIY ziplock mount
