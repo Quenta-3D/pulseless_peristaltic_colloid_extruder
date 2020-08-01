@@ -1,4 +1,5 @@
 # Pulseless Peristaltic Colloid Extruder
+Keep in mind this is still a prototype!
 
 ## Abstract
 This project provides a blueprint of a cheap stepper-driven colloid extruder for FDM 3D printers.
@@ -15,9 +16,9 @@ There have been many attempts of colloid extruders for 3D printing before. Many 
 
 There are other solutions like the moinueau pump, which enables continuous, pulse-free colloid extrusion. However those parts are expensive and far from commoditized. They are also prone to corrosion and hard to maintain.
 
-This project aims to provide a cheap solution which everybody could use 3D print various colloids like clay / gell / lime plaster.
-
-Have fun!!
+This project aims to provide a cheap solution which everybody could use to 3D print various colloids like clay / gell / lime plaster. 
 
 ## Environment
 The first CAD work has been done with Rhinoceros5. For modifications by other CAD users, .STEP files will be exported.
+
+Have fun!!
