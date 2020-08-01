@@ -18,3 +18,6 @@ There are other solutions like the moinueau pump, which enables continuous, puls
 This project aims to provide a cheap solution which everybody could use 3D print various colloids like clay / gell / lime plaster.
 
 Have fun!!
+
+## Environment
+The first CAD work has been done with Rhinoceros5. For modifications by other CAD users, .STEP files will be exported.
