@@ -1,5 +1,5 @@
 # Pulseless Peristaltic Colloid Extruder
-Keep in mind this is still a prototype!
+This is still a prototype!
 
 ## Abstract
 This project provides a blueprint of a cheap stepper-driven colloid extruder for FDM 3D printers.
@@ -20,5 +20,9 @@ This project aims to provide a cheap solution which everybody could use to 3D pr
 
 ## Environment
 The first CAD work has been done with Rhinoceros5. For modifications by other CAD users, .STEP files will be exported.
+
+## Assy tools
+You will need M6 & M3 tap to screw the tube connectors and rotor shafts.
+Unless you have a perfectly tuned 3D printer, you need a 4mm drill as well.
 
 Have fun!!
